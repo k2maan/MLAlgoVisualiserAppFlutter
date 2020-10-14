@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff1d1dba-d590-4eaf-96eb-ff8aa928d1f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/components/Cards.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/Cards.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/components/showDialogBox.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/showDialogBox.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/components/willPopScope.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/willPopScope.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/constant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/route_generate.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/route_generate.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/IntroToML.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/LinearRegPart1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/LinearRegPart1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/LinearRegPart2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/LinearRegPart2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/LinearRegPart3.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/decisionPart1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/decisionPart1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/decisionPart2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/decisionPart2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/decisionPart3.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/decisionPart3.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/menu.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/menu.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1idR8NpKBHFNgFpWmxGFVtBCFSJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff1d1dba-d590-4eaf-96eb-ff8aa928d1f0" name="Default Changelist" comment="" />
+      <created>1602235321395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602235321395</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="109" key="FileChooserDialogImpl" timestamp="1602594240963">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="109" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602594240963" />
+    <state width="1481" height="172" key="GridCell.Tab.0.bottom" timestamp="1602687979140">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="172" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602687979140" />
+    <state width="1481" height="172" key="GridCell.Tab.0.center" timestamp="1602687979140">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="172" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602687979140" />
+    <state width="1481" height="172" key="GridCell.Tab.0.left" timestamp="1602687979139">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="172" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602687979139" />
+    <state width="1481" height="172" key="GridCell.Tab.0.right" timestamp="1602687979140">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="172" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602687979140" />
+    <state x="146" y="0" key="SettingsEditor" timestamp="1602235589742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="146" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602235589742" />
+  </component>
+</project>
