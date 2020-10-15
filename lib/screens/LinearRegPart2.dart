@@ -20,7 +20,7 @@ class _LinearRegPart2State extends State<LinearRegPart2> {
       onWillPop: () => onBackPressed(context),
       child: Scaffold(
         appBar: AppBar(
-          title: Text('Basic Simulation Of Decision Tree', style: kappSubTitle),
+          title: Text('Basic Simulation Of Linear Regressiom', style: kappSubTitle),
           toolbarHeight: kAppToolbarHeight,
           leading: IconButton(
             icon: kArrowBackIcon,

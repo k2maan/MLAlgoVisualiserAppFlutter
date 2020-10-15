@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff1d1dba-d590-4eaf-96eb-ff8aa928d1f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/components/Cards.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/Cards.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/components/showDialogBox.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/showDialogBox.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/components/willPopScope.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/willPopScope.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/constant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constant.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/route_generate.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/route_generate.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/IntroToML.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/LinearRegPart1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/LinearRegPart1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/screens/LinearRegPart2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/LinearRegPart2.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/LinearRegPart3.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/decisionPart1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/decisionPart1.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/decisionPart2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/decisionPart2.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/decisionPart3.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/decisionPart3.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/menu.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/menu.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
