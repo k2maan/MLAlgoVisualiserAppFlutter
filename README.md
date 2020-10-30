@@ -1,6 +1,11 @@
 # ML Algorithm Visualiser Flutter App
 Flutter app, visually explains basic ML algorithms.
 
+Algorithms implemented-
+- Linear Regression
+- Decision Tree
+- Support Vector Machines
+
 The animation part is done using Rive/Flare.
 
 Under developement currently...
