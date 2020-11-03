@@ -12,8 +12,6 @@ Under developement currently...
 
 ## Screenshots - 
 
-![ss1](https://user-images.githubusercontent.com/59442907/97968360-8c635080-1de4-11eb-9e32-13d6ad5d99e7.png)
+![ss1](https://user-images.githubusercontent.com/59442907/97968622-ecf28d80-1de4-11eb-9164-efe86601c28f.png)
 
-![ss2](https://user-images.githubusercontent.com/59442907/97968360-8c635080-1de4-11eb-9e32-13d6ad5d99e7.png)
-
-
+![ss2](https://user-images.githubusercontent.com/59442907/97968626-ef54e780-1de4-11eb-8254-d8974f7e159b.png)
