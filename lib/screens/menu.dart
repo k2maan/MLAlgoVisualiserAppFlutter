@@ -16,7 +16,7 @@ class _AlgorithmState extends State<Algorithm> {
       child: Scaffold(
         appBar: AppBar(
           title: Text(
-            'ML Algo Vizualier',
+            'ML ALGO VISUALIZER',
             style: kappTitle,
           ),
           centerTitle: true,
