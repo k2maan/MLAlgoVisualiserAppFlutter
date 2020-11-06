@@ -15,7 +15,7 @@ class HomePage extends StatelessWidget {
     return WillPopScope(
       onWillPop: () => onExit(context),
       child: MaterialApp(
-        title: 'ML Algo Vizualier',
+        title: 'ML ALGO VISUALIZER',
         theme: ThemeData.dark().copyWith(
           primaryColor: kAppBarColor,
           scaffoldBackgroundColor: kBackgroundColor,
