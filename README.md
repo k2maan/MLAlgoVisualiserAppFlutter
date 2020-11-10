@@ -6,9 +6,10 @@ Algorithms implemented-
 - Decision Tree
 - Support Vector Machines
 
-The animation part is done using Rive/Flare.
+The animation part is done using Rive/Flare. The files used in the project can be seen [here](https://rive.app/a/k2maan/files/recent/all)
 
-Under developement currently...
+Chatbot integration is under process, done by a team member/contributor. Thus, its not included currentlu in the project and in the screenshots.
+
 
 ## Screenshots - 
 
