@@ -8,8 +8,6 @@ Algorithms implemented-
 
 The animation part is done using Rive/Flare. The files used in the project can be seen [here](https://rive.app/a/k2maan/files/recent/all)
 
-Chatbot integration is under process, done by a team member/contributor. Thus, its not included in the project and in the screenshots, right now.
-
 
 ## Screenshots - 
 
